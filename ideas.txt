@@ -1,0 +1,1 @@
+quiero meterle cosas como abrir programas, una interfaz grafica, base de datos para guardar los datos de un usuario

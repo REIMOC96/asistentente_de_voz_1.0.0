@@ -13,7 +13,7 @@ listener = sr.Recognizer()
 engine = pyttsx3.init()
 
 # Número de teléfono para enviar mensajes de WhatsApp
-cellphone = "+56999183179"
+cellphone = ""
 
 #quiero hacer una base de datos para tener mis contactos y tratar de llamarlos segun el nombre
 
@@ -100,7 +100,19 @@ async def run_wilson():
         #organizador de descargas
         
         #organizador de carpetas de desarrollo (esta es dificil)
-         
+        
+        #SACAR SREENSHOT, DE PROGRAMA O DE PANTALLA, PREFERENTE AMBOS
+        
+        # enviar mensajes por discord (ta brijido)         
+
+        #ingresar a canal de discord, y enviar mensaje por canal de txt
+        
+        #llamar por discord
+        
+        #crear aechivos y sus extensiones
+        
+        #crear carpetas
+
 # Verifica si el script se está ejecutando como programa principal
 if __name__ == '__main__':
     asyncio.run(run_wilson())
